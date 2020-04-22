@@ -1,6 +1,7 @@
 # mykhailohoy.github.io
 
-contact me:
+###### contact me:
 
 e-mail: mykhailo.hoy@gmail.com
+
 telegram: @mykhailohoy
