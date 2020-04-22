@@ -2,6 +2,6 @@
 
 ### contact me:
 
-e-mail: [mykhailo.hoy@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxTnrBMwGJbjblRnDCWzCFVJJNgLdkbQTfXgSVKTwFhcMDjQSBVTwHPwCdltkWThNcbTTq)
+e-mail: [mykhailo.hoy@gmail.com](mailto:mykhailo.hoy@gmail.com)
 
 telegram: [@mykhailohoy](https://t.me/mykhailohoy)
