@@ -1,6 +1,6 @@
-# mykhailohoy.github.io
+# Mykhailo Hoy
 
-#### contact me:
+### contact me:
 
 e-mail: mykhailo.hoy@gmail.com
 
