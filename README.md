@@ -1,4 +1,4 @@
-## Mykhailo Hoy
+## Mykhailo Hoy: web development & design
 
 ### contact me:
 
